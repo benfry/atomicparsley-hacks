@@ -1,6 +1,8 @@
 # AtomicParsley
 
-This is a copy of the [BitBucket repo](https://bitbucket.org/wez/atomicparsley) of this project, because it's more up to date than the [Github repo](https://github.com/wez/atomicparsley) by the same author.
+This was originally a copy of the [BitBucket repo](https://bitbucket.org/wez/atomicparsley) of this project, because it's more up to date than the [GitHub repo](https://github.com/wez/atomicparsley) by the same author. 
+
+**Archiving this repository as of 22 December 2024, because the GitHub repository has been active again, and incorporates the useful bits from these changes: https://github.com/wez/atomicparsley**
 
 Changes in this version:
 
